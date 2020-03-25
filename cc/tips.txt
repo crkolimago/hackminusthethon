@@ -1,0 +1,6 @@
+source env/bin/activate
+tmux (already in env)
+C-b % (split)
+C-b <-/-> (navigate)
+C-d (exit)
+deactivate
