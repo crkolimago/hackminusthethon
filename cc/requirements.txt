@@ -46,7 +46,7 @@ kiwisolver==1.1.0
 language-selector==0.1
 Mako==1.0.7
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 nbconvert==5.6.1
 nbformat==5.0.4
 netifaces==0.10.4
